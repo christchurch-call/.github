@@ -1,2 +1,2 @@
-
+![banner](https://github.com/christchurch-call/.github/blob/641e7c7949682fdf221de160787449ea0f142399/christchurch-call-logo.jpg)
 The Christchurch Call Foundation is the independent nonprofit driving the Christchurch Call — a global commitment by governments and technology platforms, supported by multilateral partners and civil society — to eliminate terrorist and violent extremist content online, while upholding human rights and a free, open, and secure internet.
